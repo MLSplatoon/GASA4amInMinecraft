@@ -1,0 +1,14 @@
+Jugar:
+- /execute in minecraft:overworld run tp @s 1.53 -37.00 -10.63 0.24 5.35
+- /gamemode adventure @p (Interactivo / Incondicional / Necesita Redstone)
+
+Software Code:
+- /tellraw @p ["",{"text":"Hecho Por MLSplatoon","bold":true,"italic":true,"color":"gold"},{"text":"\n"},{"text":"Minecraft Java 1.21\nRepositorio de Github:\n","bold":true,"italic":true,"color":"dark_aqua"},{"text":"https://github.com/MLSplatoon/GASA4amInMinecraft","bold":true,"italic":true,"color":"dark_aqua","clickEvent":{"action":"open_url","value":"https://github.com/MLSplatoon/GASA4amInMinecraft"}},{"text":"\nTexture Pack Y Sonidos\nCustom.\nCommand Blocks","bold":true,"italic":true,"color":"dark_aqua"}]
+
+Creditos:
+- /tellraw @p ["",{"text":"GASA 4:","bold":true,"italic":true,"color":"aqua"},{"text":"\n"},{"text":"Creador: Marco Systems Software","bold":true,"italic":true,"color":"blue"},{"text":"\n"},{"text":"Idea y Mapa: @MLSplatoon","bold":true,"italic":true,"color":"gold"},{"text":"\n"},{"text":"Sonidos: @MLSplatoon","bold":true,"italic":true,"color":"green"},{"text":"\n"},{"text":"-------------------------------","bold":true,"italic":true,"color":"white"},{"text":"\n"},{"text":"Gracias Por Jugar GASA 4!","bold":true,"color":"red"}]
+
+Bloques de Comandos en Total: 4
+
+@mlsplatoon
+

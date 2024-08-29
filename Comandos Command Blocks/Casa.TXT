@@ -1,0 +1,65 @@
+Volver al Menú Botón:
+/execute in minecraft:overworld run tp @p -9.06 -37.00 -3.84 -90.46 -2.92
+--------------
+Pc:
+
+/msg @p Tu PC está infectado con un virus, ahora esta criptominando...
+--------------
+NPC:
+
+/tell @p Despertaste a la persona Equivocada, Te mando a dormir.
+/execute in minecraft:overworld run tp @p 1.53 -37.00 -10.63 0.24 5.35
+/playsound minecraft:entity.ender_dragon.growl ambient @p
+
+
+Resultado:
+
+GASA4 te susurra: Despertaste a la persona Equivocada, Te mando a dormir.
+
+--------------
+Botón en La Cocina:
+
+/tell @p Este Botón tendrá uso en el futuro...
+
+
+Resultado:
+
+@ te susurra: Este Botón tendrá uso en el futuro...
+
+--------------
+Botón ENCENDER TV:
+
+/title @p times 20 60 20
+/title @p subtitle {"text":"TV 4K","bold":true,"italic":true,"color":"green"}
+/title @p title {"text":"Final:","bold":true}
+/execute in minecraft:overworld run tp @s 3.41 -37.00 19.67 180.38 0.54
+
+
+Resultado:
+
+Final:
+TV 4K
+
+--------------
+Botón Salir Fuera:
+
+/execute in minecraft:overworld run tp @p 19.46 -37.00 482.64 89.25 4.92
+--------------
+Command Blocks, Sótano:
+
+/execute in minecraft:overworld run tp @p 255.76 -37.00 -7.07 -130.34 4.65 (X2)
+/title @p times 20 60 20
+/title @p subtitle {"text":"Backrooms","bold":true,"italic":true,"color":"gold"}
+/title @p title {"text":"Final","bold":true}
+
+
+Resultado:
+
+Final
+Backrooms
+
+Bloques de Comandos en Total: 15
+--------------
+END
+
+@mlsplatoon

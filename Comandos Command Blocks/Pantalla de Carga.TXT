@@ -1,0 +1,39 @@
+Tiempo:
+
+/title @a times 20 60 20
+
+Subtitulo:
+
+/title @a subtitle {"text":"Se Están preparando los Command Blocks...","bold":true,"italic":true,"color":"gold"}
+
+Titulo:
+/title @a title {"text":"Cargando...","bold":true,"color":"blue"}
+
+RESULTADO:
+Cargando...
+Se Están preparando los Command Blocks...
+
+-------------------------------------------
+Tiempo:
+
+/title @a times 20 60 20
+
+Subtitulo:
+
+/title @a subtitle {"text":"github (@mlsplatoon)","bold":true,"italic":true,"color":"gold"}
+
+Titulo:
+
+/title @a title {"text":"Marco Systems","bold":true,"color":"blue"}
+
+RESULTADO:
+Marco Systems
+github (@mlsplatoon)
+
+--------------------------------------------
+TELETRANSPORTE A MENÚ:
+/execute in minecraft:overworld run tp @p -9.10 -37.00 -3.92 -90.72 -0.70
+--------------------------------------------
+Bloques de Comandos en Total: 7
+
+@mlsplatoon

@@ -1,0 +1,76 @@
+PARA LOS TIEMPOS SE HAN USADO REPETIDORES DE REDSTONE**
+-------------------------------------------------------
+Texto Final:
+
+/title @p times 20 60 20
+/title @p subtitle {"text":"The Finale","bold":true,"italic":true,"color":"#B3E603"}
+/title @p title {"text":"Final","bold":true}
+
+Resultado Final:
+
+Final
+The Finale
+
+-------------------------------------------------------
+Música Créditos:
+(Minecraft:credits es un sonido custom del Resource Pack)
+
+/playsound minecraft:credits master @p -134 -37 669 1 1 1
+-------------------------------------------------------
+Titulo 1:
+
+/title @p times 0 60 0
+/title @p subtitle {"text":"@mlsplatoon","bold":true,"italic":true,"color":"blue"}
+/title @p title {"text":"A Game By","bold":true}
+
+Resultado Final:
+
+A Game By
+@mlsplatoon
+
+-------------------------------------------------------
+Titulo 2:
+
+/title @p times 0 60 0
+/title @p subtitle {"text":"@Stixxal (Roblox)","bold":true,"italic":true,"color":"aqua"}
+/title @p title {"text":"Original Game","bold":true}
+
+Resultado:
+
+Original Game:
+@Stixxal (Roblox)
+
+-------------------------------------------------------
+Titulo 3:
+
+/title @p times 0 110 0
+/title @p subtitle {"text":"Por MLSplatoon","bold":true,"italic":true"color":"blue"}
+/title @p title {"text":"Resource Pack:","bold":true}
+
+Resultado:
+
+Resource Pack:
+Por MLSplatoon
+
+-------------------------------------------------------
+Titulo 4:
+
+/title @p times 0 110 0
+/title @p subtitle {"text:"Del Mapa en mi Github: @mlsplatoon"."bold":true,"italic":true,"color":"blue"}
+/title @p title {"text":"Repositorio","bold":true}
+
+Resultado:
+
+Repositorio
+Del Mapa en mi Github: @mlsplatoon
+
+-------------------------------------------------------
+Command Block TP Menú:
+/execute in minecraft:overworld run tp @p -137.55 -37.00 664.43 88.70 4.32
+
+Bloques de Comandos en Total: 17
+-------------------------------------------------------
+END
+
+@mlsplatoon
+
