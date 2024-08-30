@@ -8,7 +8,12 @@ Software Code:
 Creditos:
 - /tellraw @p ["",{"text":"GASA 4:","bold":true,"italic":true,"color":"aqua"},{"text":"\n"},{"text":"Creador: Marco Systems Software","bold":true,"italic":true,"color":"blue"},{"text":"\n"},{"text":"Idea y Mapa: @MLSplatoon","bold":true,"italic":true,"color":"gold"},{"text":"\n"},{"text":"Sonidos: @MLSplatoon","bold":true,"italic":true,"color":"green"},{"text":"\n"},{"text":"-------------------------------","bold":true,"italic":true,"color":"white"},{"text":"\n"},{"text":"Gracias Por Jugar GASA 4!","bold":true,"color":"red"}]
 
-Bloques de Comandos en Total: 4
+Ajustes Recomendados
+- /tellraw @p ["",{"text":"AJUSTES RECOMENDADOS:","bold":true,"italic":true,"color":"green"},{"text":"\n\n","bold":true,"italic":true},{"text":"Shaders: Si\nChunks: 8\nSimulación: 8\nBrillo: Por Defecto\nFPS: 30-120 FPS\nGráficos: Detallados\nNubes: Rápidos\nClima: Rápidos\nIluminación suave: Si\nEs Una Recomendación\n- @mlsplatoon","bold":true,"italic":true,"color":"gold"}]
+
+Descargar Resource Pack
+-------------------------------
+Bloques de Comandos en Total: 6
 
 @mlsplatoon
 
