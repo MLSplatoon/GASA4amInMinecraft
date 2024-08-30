@@ -18,13 +18,15 @@ GASA4 te susurra: Despertaste a la persona Equivocada, Te mando a dormir.
 
 --------------
 Botón en La Cocina:
-
-/tell @p Este Botón tendrá uso en el futuro...
-
+/title @p times 20 60 20
+/title @p subtitle {"text":"Castigado","bold":true,"italic":true,"color":"red"}
+/title @p title {"text":"Final:","bold":true}
+/execute in minecraft:overworld run tp @p -4.90 -37.00 19.48 -90.17 2.10
 
 Resultado:
 
-@ te susurra: Este Botón tendrá uso en el futuro...
+Final:
+Castigado
 
 --------------
 Botón ENCENDER TV:
@@ -32,7 +34,7 @@ Botón ENCENDER TV:
 /title @p times 20 60 20
 /title @p subtitle {"text":"TV 4K","bold":true,"italic":true,"color":"green"}
 /title @p title {"text":"Final:","bold":true}
-/execute in minecraft:overworld run tp @s 3.41 -37.00 19.67 180.38 0.54
+/execute in minecraft:overworld run tp @p 3.41 -37.00 19.67 180.38 0.54
 
 
 Resultado:
@@ -57,8 +59,15 @@ Resultado:
 
 Final
 Backrooms
+--------------
+Botón BUNKER:
+/title @p times 20 60 20
+/title @p subtitle ["",{"text":"!!","bold":true,"italic":true,"obfuscated":true,"color":"red"},{"text":"Emergencia","bold":true,"italic":true,"color":"red"},{"text":"!!","bold":true,"italic":true,"obfuscated":true,"color":"red"}]
+/title @p title {"text":"Final:","bold":true}
+/execute in minecraft:overworld run tp @p 10.07 -37.00 -18.47 -120.83 4.61
 
-Bloques de Comandos en Total: 15
+
+Bloques de Comandos en Total: unknown
 --------------
 END
 
